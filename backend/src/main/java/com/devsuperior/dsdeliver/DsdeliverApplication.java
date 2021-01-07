@@ -8,7 +8,7 @@ public class DsdeliverApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DsdeliverApplication.class, args);
-		System.out.println("Olá mundo");
+		
 	}
 
 }
